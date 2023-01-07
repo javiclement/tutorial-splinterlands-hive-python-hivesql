@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Tutorial on the use of Python and HiveSQL applied to Splinterlands and Hive Blockchain </h2>
+  <h2> Tutorial Python and HiveSQL applied to Splinterlands and Hive Blockchain </h2>
   <a class="header-badge" target="_blank" href="https://twitter.com/javi2san">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/javi2san?style=social">
   </a>
