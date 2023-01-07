@@ -3,7 +3,7 @@
   <a class="header-badge" target="_blank" href="https://twitter.com/javi2san">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/javi2san?style=social">
   </a>
-
+</div>
 
 Every week I will publish a new post in Peakd where I will explain in detail how to obtain certain information. All of them will be in a simple way for basic level users. You will also be able to leave in the comments your doubts and questions that I will be solving along the course.
 
