@@ -5,6 +5,8 @@
   </a>
 </div>
 
+<br/>
+
 Every week I will publish a new post in Peakd where I will explain in detail how to obtain certain information. All of them will be in a simple way for basic level users. You will also be able to leave in the comments your doubts and questions that I will be solving along the course.
 
 >Cada semana publicaré un nuevo post en Peakd en donde explicaré detalladamente como obtener determinada información. Todo ellos será de forma sencilla para usuarios de niveles básicos. Además podréis dejar en los comentarios vuestras dudas y preguntas que iré resolviendo a lo largo del curso.
@@ -54,8 +56,10 @@ Finally, in this section we will talk about HiveSQL and how to perform queries f
 
 ---
 
-## If you found the content useful, please support me: // Si el contenido te ha resultado útil, puedes apoyarme:
+## Support me: // Puedes apoyarme:
 
+<center>
 [![](https://img.shields.io/badge/1%20HIVE-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=javivisan&amount=1%20HIVE) [![](https://img.shields.io/badge/5%20HIVE-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=javivisan&amount=5%20HIVE) [![](https://img.shields.io/badge/10%20HIVE-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=javivisan&amount=10%20HIVE)
 
 [![](https://img.shields.io/badge/1%20HBD-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=javivisan&amount=1%20HBD) [![](https://img.shields.io/badge/5%20HBD-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=javivisan&amount=5%20HBD) [![](https://img.shields.io/badge/10%20HBD-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=javivisan&amount=10%20HBD)
+</center>
