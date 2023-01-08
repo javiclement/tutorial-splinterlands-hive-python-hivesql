@@ -7,7 +7,7 @@
 
 <br/>
 
-![30DaysOfPython](./images/banner-curso-python-splinterlands.png)
+![TutorialPython&HiveSQLSplinterlands](./images/banner-curso-python-splinterlands.png)
 
 Every week I will publish a new post in Peakd where I will explain in detail how to obtain certain information. All of them will be in a simple way for basic level users. You will also be able to leave in the comments your doubts and questions that I will be solving along the course.
 
