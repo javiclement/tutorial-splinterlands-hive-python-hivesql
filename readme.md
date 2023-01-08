@@ -7,6 +7,8 @@
 
 <br/>
 
+![30DaysOfPython](./images/banner-curso-python-splinterlands.png)
+
 Every week I will publish a new post in Peakd where I will explain in detail how to obtain certain information. All of them will be in a simple way for basic level users. You will also be able to leave in the comments your doubts and questions that I will be solving along the course.
 
 >Cada semana publicaré un nuevo post en Peakd en donde explicaré detalladamente como obtener determinada información. Todo ellos será de forma sencilla para usuarios de niveles básicos. Además podréis dejar en los comentarios vuestras dudas y preguntas que iré resolviendo a lo largo del curso.
